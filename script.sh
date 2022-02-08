@@ -1,3 +1,4 @@
+#!/bin/bash
 ##Install Jfrog
 
 wget -qO - https://releases.jfrog.io/artifactory/jfrog-gpg-public/jfrog_public_gpg.key | sudo apt-key add -
